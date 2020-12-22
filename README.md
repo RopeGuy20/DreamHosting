@@ -1,2 +1,2 @@
 # DreamHosting
-Dream Hosting coding shit.
+This repository is for creating the DreamHosting website.
