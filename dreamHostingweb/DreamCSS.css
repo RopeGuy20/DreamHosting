@@ -1,0 +1,28 @@
+/* styles the words in nav bar */
+.navbar{
+  font-family: Helvetica, sans-serif;
+  font-size: 20px;
+  background-color:#545454;
+  padding: 10px 10px 10px 10px;
+  color: white;  
+}
+.flex-container {
+    display: flex;
+}
+/* styles the words in nav bar */
+.flex-child {
+  flex: 1;
+  font-family: Helvetica, sans-serif;
+  font-size: 20px;
+  color:white;
+  height: 25px;
+}  
+/* Does the cool blue hover u see */
+a.hi:hover{
+  color:#006BFF;
+  font-size: 110%;
+  transition: 0.5s;
+}
+.color{
+  padding:15px 1px 15px 1px;
+}
